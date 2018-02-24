@@ -1,16 +1,16 @@
-#Race Core v1.0
+# Race Core v1.0
 
-##Introduction
+## Introduction
 
 RPG Maker MV doesn’t have official support for races like other games such as Dungeons & Dragons and Pathfinder RPG.  Well, I’m here to fix that.  Races have been a part of RPGs since the beginning and a good solid core is needed to not only create this feature but to extend its capabilities in the future.
 
 
-##How to Use
+## How to Use
 
 This plugin doesn’t really do all that much on its own.  It allows you to define and describe the different races that you’ll use in your game but all of the extra functionality like stat adjustments and special abilities will be added as extension plugins so that you can pick and choose what you want in your game and what you don’t.
 
 
-##Parameters
+## Parameters
 
 This is a plugin for races so, of course, you’ll need a parameter to define them for your game.  At the moment, the name is really all you need to define.  I have plans to incorporate the rest of the information in one or more other plugins but I can’t say for sure when those will be completed.
 
@@ -25,7 +25,7 @@ Physical Description - Physical description about this race.  This should descri
 **Save Races Object** - Setting this to true allows you to modify the $dataRaces object, which contains all of the information within the plugin parameters, when the player saves the game.  By default, this object is built from the plugin parameters when a new game is started or a saved game is loaded.  This is usually what you’ll want.  If, for some reason, you need need to alter this data in-game and have those changes persist until the end of the game, you’ll need to turn this option on.
 
 
-##Script and Plugin Commands
+## Script and Plugin Commands
 
 These commands will allow you to assign races to actors and to retrieve information about the actor’s race.
 
@@ -56,13 +56,13 @@ Store the Actor’s ID in variable 6 and then store the race name in variable 7.
 GETRACE NAME v[6] 7
 
 
-##Terms of Use
+## Terms of Use
 
 This plugin can be used in commercial or non-commercial projects.  You also have my permission to write and share plugins that add to or extend the functionality of this plugin.
 
 Credit Frogboy in your work.
 
 
-##Changelog
+## Changelog
 
 Version 1.0 - Initial release
