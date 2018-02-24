@@ -47,13 +47,13 @@ The Type is piece of information that you want to retrieve.  This can be ID, NAM
 Examples
 
 Get the Race ID of Actor 1 and store it in variable 5
-GETRACE ID 1 5
+* GETRACE ID 1 5
 
 Get the Race name of Actor 4 and store it in variable 12
-GETRACE NAME 4 12
+* GETRACE NAME 4 12
 
 Store the Actor’s ID in variable 6 and then store the race name in variable 7.  All parameters can utilize the v[x] variable reference notation.
-GETRACE NAME v[6] 7
+* GETRACE NAME v[6] 7
 
 
 ## Terms of Use
