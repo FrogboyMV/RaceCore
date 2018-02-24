@@ -107,9 +107,9 @@ FROG.Races = FROG.Races || {};
  * Terms of Use
  * ============================================================================
  *
- * This plugin can be used in commercial or non-commercial projects.  If you
- * are a plugin developer, feel free to write add-ons for this if you want
- * to extend its functionality.
+ * This plugin can be used in commercial or non-commercial projects.  You also 
+ * have my permission to write and share plugins that add to or extend the 
+ * functionality of this plugin.
  *
  * Credit Frogboy in your work.
  *
