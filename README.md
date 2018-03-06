@@ -9,6 +9,9 @@ RPG Maker MV doesn’t have official support for races like other games such as 
 
 This plugin doesn’t really do all that much on its own.  It allows you to define and describe the different races that you’ll use in your game but all of the extra functionality like stat adjustments and special abilities will be added as extension plugins so that you can pick and choose what you want in your game and what you don’t.
 
+This plugin is designed to be the core of various extension plugins that enable extra functionality for your game's races.  Those extensions will ask for a Race ID to identify the race you are adding parameters for.  The Race ID is the index of the entry in this plugin associated with the race in question.  You can find it here.
+
+![Race ID](img/raceId.png)
 
 ## Parameters
 
