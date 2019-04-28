@@ -77,5 +77,5 @@ Credit Frogboy in your work.
 
 
 ## Changelog
-* Version 1.0 - Initial release
+* Version 1.0.0 - Initial release
 * Version 2.0.0 - Added Class templates and allow Actors to start with a race.
