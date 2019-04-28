@@ -1,4 +1,4 @@
-# Race Core v2.0.0
+# Race Core v2.0
 
 ## Introduction
 
